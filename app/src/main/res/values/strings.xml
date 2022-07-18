@@ -4,4 +4,6 @@
     <string name="welcome">Welcome</string>
     <string name="please_enter_your_name">Please enter your name.</string>
     <string name="e_g_john">e.g John</string>
+    <string name="flag_image">Flag Image</string>
+    <string name="submit">SUBMIT</string>
 </resources>
